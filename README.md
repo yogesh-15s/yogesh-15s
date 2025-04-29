@@ -1,3 +1,2 @@
-Hey there,
-Myself Yogesh Shinde.
-I am a 1st year engineering student.
+Hey there, I am Yogeshwar Shinde. 
+ 

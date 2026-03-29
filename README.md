@@ -40,11 +40,10 @@
 - Prisma ORM (learning phase )
 
 ### ☁ Deployment / Tools
-- Netlify
 - Render
 - GitHub
 - VS Code
-- Postman
+
 
 ---
 

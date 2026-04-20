@@ -17,7 +17,7 @@
 ## 💻 Expertise
 
 ### 👨‍💻 Programming
-- Python
+- Python (Learning Advanced Python)
 - JavaScript
 - C++
 - C
@@ -26,23 +26,25 @@
 - React.js
 - Vite
 - Node.js
-- Express.js
 - REST APIs
 - Tailwind CSS
 
 ### 🧠 AI / Future Focus
-- Machine Learning (Learning Phase)
+- Machine Learning 
 - AI Assistants Development
 - Voice + Chat AI Systems
 
 ### 🗄 Databases
 - MongoDB (learning phase )
-- Prisma ORM (learning phase )
+- SQLite
 
 ### ☁ Deployment / Tools
 - Render
 - GitHub
 - VS Code
+- Antigravity
+- Cursor
+- Claude
 
 
 ---
@@ -71,16 +73,17 @@ Targets:
 
 ---
 
-### 🛒 Furniture Business Digital Platform (In Progress)
-- Online + Offline Hybrid Business Model  
-- Interior Design + Furniture Sales  
-- Manufacturing + B2B Supply  
+### 🏃 RUN RAID — Real-World Territory Capture Fitness Game
+- GPS-based territory capture game (Walk, Run, Cycle)
+- React Native mobile app with Firebase Auth & Google Sign-In
+- Real-time multiplayer via Socket.IO + leaderboard & friend system
+
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced AI / ML
+- Advanced AI / ML, Python
 - System Design
 - Scalable Backend Architectures
 - Cloud Deployment
@@ -92,8 +95,8 @@ Targets:
 ## 📫 Connect With Me
 
 📧 Email: yogesh152006@gmail.com
-💼 LinkedIn:  
-🐙 GitHub: https://github.com/yogeesh-15s 
+💼 LinkedIn: https://www.linkedin.com/in/yogeshwar-shinde-05847b376/
+🐙 GitHub: https://github.com/yogesh-15s 
 
 ---
 
